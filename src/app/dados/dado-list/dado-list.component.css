@@ -1,0 +1,9 @@
+.jumbotron {
+    background-image: url(https://wallpaperplay.com/walls/full/b/e/4/124178.jpg);
+    background-repeat: no-repeat;
+    background-color: #000;
+}
+
+.card-body {
+    flex: none;
+}

@@ -1,0 +1,6 @@
+<ol class="list-unstyled row">
+    <li *ngFor="let foto of fotos" class="col-4">
+        <sw-foto [original]="foto.original" [title]="foto.title">
+        </sw-foto>
+    </li>
+</ol>
